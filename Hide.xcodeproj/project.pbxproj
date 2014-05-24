@@ -50,6 +50,7 @@
 		D0AC54E41931619900427BFA /* HideTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HideTests-Info.plist"; sourceTree = "<group>"; };
 		D0AC54E61931619900427BFA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D0AC54E81931619900427BFA /* HideTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HideTests.m; sourceTree = "<group>"; };
+		D0AC54F31931633D00427BFA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/MainMenu.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -296,6 +297,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				D0AC54D41931619800427BFA /* Base */,
+				D0AC54F31931633D00427BFA /* en */,
 			);
 			name = MainMenu.xib;
 			sourceTree = "<group>";
